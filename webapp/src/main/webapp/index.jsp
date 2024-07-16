@@ -28,5 +28,10 @@
     <label for="PAN"><b>PAN Number</b></label>
     <input type="text" placeholder="Enter PAN Number" name="PAN" id="PAN" required>
     <br>
+
+     <label for="PAN"><b>Mobile Number</b></label>
+    <input type="text" placeholder="Enter PAN Number" name="PAN" id="PAN" required>
+    <br>
+
  
 </form>
