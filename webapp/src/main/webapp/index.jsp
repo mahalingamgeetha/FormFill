@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
 	  <h1>Ansible and Docker Project with K8S Deployment updated</h1>
-    <p>Please fill in this form</p>
+    <p>fill in this form</p>
     <hr>
     <br>
 
